@@ -30,5 +30,23 @@
 			"})",
 			"</script>"
 		]
+	},
+	"Vue3  component":{
+		"prefix": "v3c",
+		"body": [
+			"<template>",
+  			"\t<div></div>",
+			"</template>",
+			"\t",
+			"<script lang=\"ts\">",
+			"\t",
+			"export default {",
+			"\tname: \"$1\",",
+			"\tsetup() {",
+			"\t\treturn {}",
+			"\t}",
+			"}",
+			"</script>"
+		]
 	}
 }
