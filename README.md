@@ -19,4 +19,20 @@
         }
     })
     </script>
-    ```
+- 
+  - Command `v3c`
+  - Snippet
+    ```vue
+    <template>
+        <div></div>
+    </template>
+
+    <script lang="ts">
+
+    export default {
+        name: "",
+        setup() {
+            return {}
+        }
+    }
+    </script>    ```
