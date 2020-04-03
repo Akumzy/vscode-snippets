@@ -3,7 +3,7 @@
 ## Vue
 - 
   - Command `vtc`
-  - Code
+  - Snippet
     ```vue
     <template>
         <div></div>
